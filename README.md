@@ -21,7 +21,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/github-noob-arjun/Seedr-js)
 
 ## License
 
